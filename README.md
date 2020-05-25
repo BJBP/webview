@@ -10,3 +10,4 @@ and put this in Manifest for A. Q:
     android:usesCleartextTraffic="true">
 </application>
 
+
